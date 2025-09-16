@@ -1,0 +1,52 @@
+{
+  "todoItem": [
+    {
+      "id": "1756718074678",
+      "task": "Meditation",
+      "description": "Daily 10 to 15 min Meditate",
+      "priority": "Low",
+      "progress": "Pending",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "1756718145838",
+      "task": "Book reading",
+      "description": "Three to five pages book reading daily",
+      "priority": "Low",
+      "progress": "Completed",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "1756718196319",
+      "task": "Problem Solving",
+      "description": "Leedcode problem solved and send the problem to the study group",
+      "priority": "High",
+      "progress": "Completed",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "1756718234168",
+      "task": "React project based learning ",
+      "description": "Advance todo list app ",
+      "priority": "High",
+      "progress": "In-Progress",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "1756718277474",
+      "task": "Workout",
+      "description": "Today cheast workout in gym",
+      "priority": "Medium",
+      "progress": "Pending",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "1756718329095",
+      "task": "Communication",
+      "description": "Vacabulary learn and speaking practice",
+      "priority": "Medium",
+      "progress": "Pending",
+      "date": "2025-09-01"
+    }
+  ]
+}
