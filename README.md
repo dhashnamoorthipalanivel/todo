@@ -85,7 +85,7 @@ todo/
 
 📦 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone [https://github.com/your-username/todo-app.git](https://github.com/dhashnamoorthipalanivel/todo)
 cd todo-app
 
 2️⃣ Install dependencies
